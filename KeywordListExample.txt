@@ -1,0 +1,28 @@
+A:Psychotic=TI (+5)
+A:*izo=J2 (+5)
+A:*izo=T2 (+5)
+A:*izo*=TI (+5)
+B:Affect=TI (+5)
+B:Blind=AB (+3)
+B:Blind=TI (+5)
+B:Clinic*=TI (+3)
+B:*Control*=AB (+4)
+B:Controlled=TI (+5)
+B:Cross-Over=AB (+4)
+B:Cross-Over=TI (+5)
+B:*Cross Over*=AB (+4)
+B:Cross Over=TI (+5)
+B:*Non Random=AB (-5)
+B:Non Random=TI (-5)
+B:Not Random*=AB (-5)
+B:Placebo=AB (+3)
+B:Placebo=AB (+4)
+B:Placebo=TI (+5)
+B:Placebo=TI (+5)
+B:PubMed=AB (-5)
+B:Random Allocat=AB (+5)
+B:Random Assign=AB (+5)
+B:Random Assort=AB (+5)
+B:Random Rece=AB (+5)
+B:Random Select=AB (+5)
+B:Randomised=AB (+3)
